@@ -1,0 +1,26 @@
+html {
+  background: url("/img/bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  font-family: Sans-Serif;
+}
+
+.tweet {
+  fill: #a0ccee;
+  stroke: 1px #ccc;
+}
+
+.mention {
+  fill: #114369;
+  stroke: 1px #ccc;
+}
+
+.arc {
+  fill:none;
+  stroke: #ccc;
+}
